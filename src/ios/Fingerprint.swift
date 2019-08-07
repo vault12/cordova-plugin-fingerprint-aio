@@ -8,7 +8,7 @@ import LocalAuthentication
         let authenticationContext = LAContext();
         var biometryType = "finger";
         var error:NSError?;
-        let policy:LAPolicy = .deviceOwnerAuthenticationWithBiometrics;
+        let policy:LAPolicy = .deviceOwnerAuthentication;
 
         let available = authenticationContext.canEvaluatePolicy(policy, error: &error);
 
