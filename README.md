@@ -1,3 +1,9 @@
+Original repo: [https://github.com/NiklasMerz/cordova-plugin-fingerprint-aio]()
+
+Issue (as the reason to fork): [https://github.com/NiklasMerz/cordova-plugin-fingerprint-aio/issues/175]()
+
+---
+
 # Cordova Plugin Fingerprint All-In-One
 ## For **Android** and **iOS**
 
